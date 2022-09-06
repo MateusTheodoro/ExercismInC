@@ -1,1 +1,1 @@
-# ExercismInC
+# Exercism In C
